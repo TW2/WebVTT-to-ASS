@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebVTT to ASS/1.0.0": {
+        "runtime": {
+          "WebVTT to ASS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebVTT to ASS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

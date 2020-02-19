@@ -1,0 +1,11 @@
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.exe
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.deps.json
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.runtimeconfig.json
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.runtimeconfig.dev.json
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.dll
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\bin\Debug\netcoreapp3.1\WebVTT to ASS.pdb
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\obj\Debug\netcoreapp3.1\WebVTT to ASS.csprojAssemblyReference.cache
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\obj\Debug\netcoreapp3.1\WebVTT to ASS.AssemblyInfoInputs.cache
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\obj\Debug\netcoreapp3.1\WebVTT to ASS.AssemblyInfo.cs
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\obj\Debug\netcoreapp3.1\WebVTT to ASS.dll
+C:\Users\WinGB-Brix\Documents\(Mes projets Code)\WebVTT to ASS\obj\Debug\netcoreapp3.1\WebVTT to ASS.pdb
